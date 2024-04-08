@@ -1,8 +1,8 @@
 Hola soy Luis Bermejo y este es el archivo historia.txt
 
-Experimento 2
-
 Experimento 1
+
+Experimento 2
 
 Master 1
 
