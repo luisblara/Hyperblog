@@ -1,3 +1,5 @@
 Hola soy Luis Bermejo y este es el archivo historia.txt
 
 Master 1
+
+Master 2
